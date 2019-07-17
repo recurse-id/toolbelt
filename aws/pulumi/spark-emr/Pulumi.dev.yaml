@@ -1,0 +1,4 @@
+config:
+  aws:region: us-east-1
+  spark-emr:keyname: loki
+  spark-emr:ssh_keyname: loki

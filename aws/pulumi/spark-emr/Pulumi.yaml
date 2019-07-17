@@ -1,0 +1,3 @@
+name: spark-emr
+runtime: python
+description: spark cluster and zeppelin notebook on emr
